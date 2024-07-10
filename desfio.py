@@ -1,3 +1,16 @@
+#'''operação de depósito'''
+#Possível apenas depositar valores positivos.
+
+#'''operação de saque'''
+#Permitir realizar 3 saques diários com limite máximo de R$ 500.00 por saque.
+#Exibir uma mensagem caso o usuário não tenha saldo em conta.
+
+#'''operação de extrato'''
+#Listar todos os depósitos e saques realizados.
+#No fim da listagem deve exibir o saldo atual da conta.
+#Valores devem ser exibidos no formato R$ xxx.xx
+#Todos os depósitos, saques, devem ser armazenados em uma variável e exibidos na 'operação extrato'
+
 menu = """
 
 [d] Depositar
